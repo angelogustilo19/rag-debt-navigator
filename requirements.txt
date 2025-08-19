@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+openai
+langchain
+faiss-cpu
+google-generativeai
+mysql-connector-python
+bcrypt
+langchain-openai

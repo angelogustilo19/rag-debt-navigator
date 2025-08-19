@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+langchain
+langchain-google-genai
+bcrypt
+mysql-connector-python
+python-dotenv
+pandas
+faiss-cpu

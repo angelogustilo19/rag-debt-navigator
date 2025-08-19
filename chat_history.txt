@@ -1,0 +1,8 @@
+
+--- New Session Started: 2025-08-14 12:50:34 ---
+USER:  have a 1500 debt, with interest of 5%, i will pay 35 dollars a month. how long will it take to pay it off
+BOT:
+--- Calculation Result ---
+It will take approximately 4 years and 0 months to pay off this debt.
+You will pay a total of $1,655.82, which includes $155.82 in interest.
+------------------------
